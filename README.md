@@ -8,19 +8,19 @@ An Ethereum based application that can send funds to FinTech candidates using th
 
 A short video showing a transaction to Kendall from the list of FinTech professionals (DISCLAIMER: I had to change the wage that Kendall takes for the demo because I did not have enough ETH and the Kovan Faucet website is down):
 
-![]()
+![](https://github.com/talibkateeb/Ethereum-Instant-Pay-App/blob/main/README-Resources/transaction-recording.gif)
 
 A picture of the user's account's transaction history:
 
-![]()
+![](https://github.com/talibkateeb/Ethereum-Instant-Pay-App/blob/main/README-Resources/sender-transaction-history.png)
 
 A picture of the transaction details:
 
-![]()
+![](https://github.com/talibkateeb/Ethereum-Instant-Pay-App/blob/main/README-Resources/transaction-details.png)
 
 A picture of the receiver's (Kendall) account's transaction history
 
-![]()
+![](https://github.com/talibkateeb/Ethereum-Instant-Pay-App/blob/main/README-Resources/receiver-transaction-history.png)
 
 ---
 
